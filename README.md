@@ -10,6 +10,8 @@ Note: libAdapta apps look and feel the same as libAdwaita apps by default. To di
 
 # Python app
 
+![image](https://github.com/user-attachments/assets/be24a9a1-03d0-4c76-902c-3bd5afbac2a2)
+
 A python application is available at https://github.com/xapp-project/libadapta-examples/blob/master/apps/python_app.py.
 
 It's just a simple app with a sidebar and a few widgets.
@@ -21,6 +23,8 @@ python3 ./python_app.py
 ```
 
 # C app
+
+![Image](https://github.com/user-attachments/assets/1ab1ff8a-e3ef-4c52-8633-87a1aaf2b0fb)
 
 The same application is available in C at https://github.com/xapp-project/libadapta-examples/blob/master/apps/c_app.c.
 
