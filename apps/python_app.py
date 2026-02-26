@@ -48,7 +48,7 @@ class MainWindow(Adw.ApplicationWindow):
         status_page = Adw.StatusPage()
         status_page.set_title("Python libAdapta Example")
         status_page.set_description("Split navigation view, symbolic icon and a calendar widget to feature the accent color.")
-        status_page.set_icon_name("document-open-recent-symbolic")
+        status_page.set_icon_name("xsi-document-open-recent-symbolic")
         box = Gtk.Box(orientation=Gtk.Orientation.VERTICAL, spacing=12)
         calendar = Gtk.Calendar()
         box.append(status_page)
