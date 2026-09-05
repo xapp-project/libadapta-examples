@@ -77,7 +77,7 @@ static void create_window(AdwApplication *app) {
     adw_status_page_set_title(status_page, "C libAdapta Example");
     adw_status_page_set_description(status_page,
         "Split navigation view, symbolic icon and a calendar widget to feature the accent color.");
-    adw_status_page_set_icon_name(status_page, "document-open-recent-symbolic");
+    adw_status_page_set_icon_name(status_page, "xsi-document-open-recent-symbolic");
 
     GtkBox *box = GTK_BOX(gtk_box_new(GTK_ORIENTATION_VERTICAL, 12));
     GtkCalendar *calendar = GTK_CALENDAR(gtk_calendar_new());
